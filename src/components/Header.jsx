@@ -8,7 +8,7 @@ function Header() {
         <ul id='nav-mobile' className='right hide-on-med-and-down'>
           <li>
             <a
-              href='https://github.com/sergey87chuvasov/react-project-5'
+              href='https://github.com/sergey87chuvasov/react-project-6'
               target='_blank'
               rel='noreferrer'
             >
